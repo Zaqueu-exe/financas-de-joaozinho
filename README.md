@@ -15,3 +15,7 @@ Funcionalidades esperadas:
 2)	Cadastrar categorias de gastos;
 3)	Lançar uma movimentação financeira (Categorizada) nas contas cadastradas;
 4)	Visualizar o saldo das contas cadastradas;
+	
+--------------------------------------------------------------------------
+
+Consegui implementar todas as funcionalidades requeridas
